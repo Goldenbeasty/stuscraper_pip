@@ -1,0 +1,4 @@
+[submodule "src/stuscraper"]
+	path = src/stuscraper
+	url = https://github.com/goldenbeasty/stuscraper
+	branch = wrapping-package
